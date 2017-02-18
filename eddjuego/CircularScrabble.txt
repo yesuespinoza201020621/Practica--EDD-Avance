@@ -1,0 +1,2 @@
+ digraph g {
+juan -> alfonso -> tuy ->juan}
